@@ -1,0 +1,5 @@
+User-agent: *
+
+allow: /
+https://arailodge.com/sitemaps_index.xml
+
